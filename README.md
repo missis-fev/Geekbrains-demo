@@ -8,6 +8,7 @@ This is demo repository for geekbrains webinar
 - внесение изменений в удалённый репозиторий
 - additional from Rusttm
 - новая строка
+Добавил 10 строку
 
 Ну наконец-то
 Добрый вечер всем!
