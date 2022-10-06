@@ -26,6 +26,10 @@ This is demo repository for geekbrains webinar
 
 
 
+*** Найти Тефтельку!!!!
+* Где же Тефтелька?
+
+## End
 
 
 
@@ -39,9 +43,16 @@ This is demo repository for geekbrains webinar
 
 ![Кот](https://funik.ru/wp-content/uploads/2018/10/17478da42271207e1d86.jpg)
 сложнаааа! Но, вроде разобрались
+
+
+
+
+
+![учимся, братья ](https://7info.ru/wp-content/uploads/2022/07/programmirovanie-kursy-obuchenie.jpg)
 Добавдено изменение!!!
 
 **Спасибо за внимание**
-> Изменения в локальном репозитории
+
 Где же Тефтелька???
 
+А вот и тефтелька!!! ![Teftelka](68827623.jpg)
