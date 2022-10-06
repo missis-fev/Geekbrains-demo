@@ -10,3 +10,8 @@ This is demo repository for geekbrains webinar
 - новая строка
 
 Добрый вечер всем!
+
+
+
+
+![Кот](https://funik.ru/wp-content/uploads/2018/10/17478da42271207e1d86.jpg)
