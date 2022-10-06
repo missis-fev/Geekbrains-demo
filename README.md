@@ -12,3 +12,9 @@ This is demo repository for geekbrains webinar
 Добрый вечер всем!
 
 сложнаааа! Но, вроде разобрались
+
+
+
+
+
+![учимся, братья ](https://7info.ru/wp-content/uploads/2022/07/programmirovanie-kursy-obuchenie.jpg)
