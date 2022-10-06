@@ -25,3 +25,5 @@ This is demo repository for geekbrains webinar
 - всем привет из Карелии)
 Ну наконец-то
 Добрый вечер всем!
+
+Где же Тефтелька???
