@@ -8,3 +8,4 @@ This is demo repository for geekbrains webinar
 - внесение изменений в удалённый репозиторий
 
 *** Найти Тефтельку!!!!
+* Где же Тефтелька?
