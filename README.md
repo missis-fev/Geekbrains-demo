@@ -6,6 +6,9 @@ This is demo repository for geekbrains webinar
 - внесение изменений локально (done)
 - получение изменений из удалённого репозитория
 - внесение изменений в удалённый репозиторий
+- additional from Rusttm
+- новая строка
+Добавил 10 строку
 
 
 
@@ -20,3 +23,5 @@ This is demo repository for geekbrains webinar
 
 
 - всем привет из Карелии)
+Ну наконец-то
+Добрый вечер всем!
