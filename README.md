@@ -10,6 +10,7 @@ This is demo repository for geekbrains webinar
 - новая строка
 Добавил 10 строку
 Добрый вечер всем!
+
 Добавил Плуто ![Плуто](Pluto.jpg)
 
 
