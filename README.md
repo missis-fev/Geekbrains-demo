@@ -26,6 +26,10 @@ This is demo repository for geekbrains webinar
 
 
 
+*** Найти Тефтельку!!!!
+* Где же Тефтелька?
+
+## End
 
 
 
@@ -44,3 +48,5 @@ This is demo repository for geekbrains webinar
 **Спасибо за внимание**
 > Изменения в локальном репозитории
 Где же Тефтелька???
+
+А вот и тефтелька!!! ![Teftelka](68827623.jpg)
