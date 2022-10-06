@@ -39,6 +39,9 @@ This is demo repository for geekbrains webinar
 Добрый вечер всем!
 
 
+Добавил Плуто ![Плуто](Pluto.jpg)
+
+
 
 
 ![Кот](https://funik.ru/wp-content/uploads/2018/10/17478da42271207e1d86.jpg)
@@ -56,3 +59,4 @@ This is demo repository for geekbrains webinar
 Где же Тефтелька???
 
 А вот и тефтелька!!! ![Teftelka](68827623.jpg)
+
