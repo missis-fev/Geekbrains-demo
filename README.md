@@ -7,3 +7,6 @@ This is demo repository for geekbrains webinar
 - получение изменений из удалённого репозитория
 - внесение изменений в удалённый репозиторий
 - additional from Rusttm
+- новая строка
+
+Добрый вечер всем!
